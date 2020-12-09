@@ -1,0 +1,5 @@
+1.- Primero se tiene que vedificar si no existe  una base datos con un nombre similar 
+2.- para exporta la base datos  es necesario  crear la base datos  -------CREATE DATABASE  nombre de base de datos
+
+-------------Para saber mas---------------------
+https://www.youtube.com/watch?v=z5-F9TomceQ
